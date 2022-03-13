@@ -24,3 +24,4 @@ python3 -m main.py
 it should work. (should)
 
 
+# THIS IS NOT DONE!! 
