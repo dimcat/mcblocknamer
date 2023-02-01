@@ -25,3 +25,4 @@ it should work. (should)
 
 
 # THIS IS NOT DONE!! 
+# i doubt this works now, you can tru, it wond work tho
